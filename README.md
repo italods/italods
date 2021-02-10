@@ -3,6 +3,10 @@
 <!--
 **italods/italods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![HitCount](http://hits.dwyl.com/italods/italods/italods.svg)](http://hits.dwyl.com/italods/italods/italods)
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
