@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<!--
-**italods/italods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![HitCount](http://hits.dwyl.com/italods/italods/italods.svg)](http://hits.dwyl.com/italods/italods/italods)
+<div align="center">
 
 [![HitCount](http://hits.dwyl.com/italods/italods.svg)](http://hits.dwyl.com/italods/italods)
 
-
+</div>
+<!--
+**italods/italods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
