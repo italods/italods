@@ -5,6 +5,8 @@
 
 [![HitCount](http://hits.dwyl.com/italods/italods/italods.svg)](http://hits.dwyl.com/italods/italods/italods)
 
+[![HitCount](http://hits.dwyl.com/italods/italods.svg)](http://hits.dwyl.com/italods/italods)
+
 
 
 Here are some ideas to get you started:
