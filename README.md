@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italods)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.linkedin.com/in/italods_)
 [![HitCount](http://hits.dwyl.com/italods/italods.svg)](http://hits.dwyl.com/italods/italods)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=italods.italods)
 </div>
 <!--
 **italods/italods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
