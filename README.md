@@ -7,8 +7,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@italods_-white?style=flat-square&logo=instagram&labelColor=black)](https://www.linkedin.com/in/italods_)
 [![Email](https://img.shields.io/badge/Email-italopereira007@hotmail.com-white?style=flat-square&logo=gmail&labelColor=black)](mailto:italopereira007@hotmail.com)
 [![HitCount](http://hits.dwyl.com/italods/italods.svg)](http://hits.dwyl.com/italods/italods)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=italods.italods)
-![VIEWS](https://komarev.com/ghpvc/?username=italods&label=VIEWS&style=flat-square&labelColor=black)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=italods.italods)
+![VIEWS](https://komarev.com/ghpvc/?username=italods&label=Views&style=flat-square&labelColor=black)
 </div>
 <!--
 **italods/italods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
