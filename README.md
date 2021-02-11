@@ -1,5 +1,6 @@
-### Hi there 👋
+### 
 
+<h3 aling="center"> < Italo Pereira 👋 />  </h3>
 <!--
 <div align="center">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-@italods-white?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/italods)
