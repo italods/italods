@@ -1,23 +1,21 @@
 ### Hi there 👋
 
-
+<!--
 <div align="center">
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-@italods-white?style=flat-square&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/italods)
 [![Instagram](https://img.shields.io/badge/Instagram-@italods_-white?style=flat-square&logo=instagram&labelColor=black)](https://www.linkedin.com/in/italods_)
 [![Email](https://img.shields.io/badge/Email-italopereira007@hotmail.com-white?style=flat-square&logo=gmail&labelColor=black)](mailto:italopereira007@hotmail.com)
 [![HitCount](http://hits.dwyl.com/italods/italods.svg)](http://hits.dwyl.com/italods/italods)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=italods.italods)
-![VIEWS](https://komarev.com/ghpvc/?username=italods&label=Views&style=flat-square&labelColor=black)
 </div>
-
+-->
 
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-italods-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/italods/)](https://www.linkedin.com/in/vedantkhairnar/)
 [![Instagram Badge](https://img.shields.io/badge/-italods__-blue?style=social&logo=Instagram&link=https://www.instagram.com/italods_/)](https://www.instagram.com/italods_/) 
 [![Email](https://img.shields.io/badge/-italopereira007@hotmail.com-white?style=social&logo=gmail&labelColor=black)](mailto:italopereira007@hotmail.com)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=italods.italods)](https://github.com/italods) 
+![Views](https://komarev.com/ghpvc/?username=italods&label=Views&style=social&color=dc143c)
 [![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
 
  </div>
