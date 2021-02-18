@@ -17,7 +17,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-italods__-blue?style=social&logo=Instagram&link=https://www.instagram.com/italods_/)](https://www.instagram.com/italods_/) 
 [![Email](https://img.shields.io/badge/-italopereira007@hotmail.com-white?style=social&logo=gmail&labelColor=black)](mailto:italopereira007@hotmail.com)
 ![Views](https://komarev.com/ghpvc/?username=italods&label=Views&style=social&color=lightgrey)
-[![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
+[![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://italods.github.io/)
 
 </div>
 <!--
