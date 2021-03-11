@@ -13,6 +13,7 @@
 
 <div align="center">
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-italods-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/italods/)](https://www.linkedin.com/in/italods/)
 [![Instagram Badge](https://img.shields.io/badge/-italods__-blue?style=social&logo=Instagram&link=https://www.instagram.com/italods_/)](https://www.instagram.com/italods_/) 
 [![Email](https://img.shields.io/badge/-italopereira007@hotmail.com-white?style=social&logo=gmail&labelColor=black)](mailto:italopereira007@hotmail.com)
